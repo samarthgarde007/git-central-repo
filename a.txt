@@ -1,2 +1,3 @@
 hello 
 i am samu
+I am learning git
